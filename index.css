@@ -1,0 +1,37 @@
+span {
+    font-size: 100px;
+}
+header {
+    background-color: brown;
+    width: 3000px;
+    height: 150px;
+    
+}
+footer {
+    background-color: brown;
+    text-align: center;
+    width: 35cm;
+    height: 2cm;
+}
+body {
+    background-color: #999999;
+}
+h3 {
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1 {
+    text-align: center;
+}
+a {
+    margin: 30px;
+    color: #FF00FF;
+}
+h4 {
+    font-size: 30px;
+    text-align: center;
+}
