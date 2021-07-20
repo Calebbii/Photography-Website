@@ -4,5 +4,5 @@ These is an art auction photography website.The displayed photos are to be aucti
 ## License $ copyright
 © Caleb B Kiprotich,Moringa school
 ---
-## Independent Project
-Caleb B Kiprotich
+## Live link
+https://calebbii.github.io/Photography-Website/
