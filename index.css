@@ -2,13 +2,13 @@ span {
     font-size: 100px;
 }
 header {
-    background-color: brown;
+    background-color: rgb(160, 106, 182);
     width: 3000px;
     height: 150px;
     
 }
 footer {
-    background-color: brown;
+    background-color: rgb(160, 106, 182);
     text-align: center;
     width: 35cm;
     height: 2cm;
