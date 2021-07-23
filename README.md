@@ -1,5 +1,5 @@
 # Photography-Website
-* These is an art auction photography website.The displayed photos are to be auction in the upcoming executive auction. The photos are among the most expensive art pieces ever to auctioned.
+* These is an art auction photography website.The displayed photos are to be auction in the upcoming executive auction. The photos are among the most expensive art pieces ever to be auctioned.
 
 ## License $ copyright
   © Caleb B Kiprotich,Moringa school
