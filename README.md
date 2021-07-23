@@ -9,4 +9,4 @@ https://calebbii.github.io/Photography-Website/
 
 ## Technologies Used
 * HTML
-* CSS
+* CSS 
